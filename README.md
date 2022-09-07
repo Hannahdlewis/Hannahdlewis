@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hannahdlewis
 - 👀 I’m interested in learning full stack web development
-- 🌱 I’m currently learning the basics through the GA Tech Bootcamp
+- 🌱 I’m currently learning online 
 - 💞️ I’m looking to collaborate on just about anything currently as I'm in the begining stages of learning full stack
 - 📫 How to reach me; I can be reached via email at hannahdlewis07@gmail.com
 
